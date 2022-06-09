@@ -13,11 +13,11 @@
 </p>
 
 ## 👨‍💻 About me
-- ☕  I’m currently working on Java Projects
+- ☕  I’m currently working on Nodejs And Php Projects
+- 👨‍🎓 I’m currently learning: Java and Kotlin.
 - 🏫 I graduated from Çukurova University Computer Engineering.
 - 💻 I love using Software as a solution for every `Problem`
 - 🖥️ I am a competitive programmer mainly at `HackerRank`
-- 👨‍🎓 I’m currently learning: Java and Kotlin.
 - 👉This is [MY RESUME](https://drive.google.com/file/d/14D2PDhQehf5rBL7AX97SWhEDoaOGAcRT/view?usp=sharing).
 
 <br>
