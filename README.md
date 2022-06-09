@@ -66,11 +66,11 @@
   </a>
   &emsp;
    <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="Nodejs" src="	https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
+    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
   </a>
-    &emsp;
+  &emsp;
    <a href="https://www.php.net/" target="_blank">
-    <img alt="Php" src="	https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
+    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
   </a>
 </p>
 
