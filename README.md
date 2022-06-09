@@ -19,13 +19,9 @@
 
 <br>
 
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baranbaturr01&theme=algolia" alt="7oSkaaa" /></p>
+## 💬 Reach Me
 
 <br>
-<br>
-
 
 <p align="center">
 	<a href="mailto:baranbaturr@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -34,9 +30,22 @@
 	<a href="https://www.linkedin.com/in/baranbatur/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+<br>
+
+## 🔥 Streak Stats
+
+<br>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baranbaturr01&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
+
+
 ## 🛠️ My Skills
+<br>
 
 ### 👉 Programming languages
+<br>
 
 <p align="center"> 
   &emsp; 
@@ -66,7 +75,7 @@
 </p>
 
 ### 👉 Software & Tools
-
+<br>
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -85,7 +94,7 @@
 </p>
 
 ### 👉 IDEs
-
+<br>
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -98,7 +107,7 @@
 </p>
 
 ### 👉 Competitive Programming & Problem Solving
-
+<br>
 <p align="center">
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
@@ -115,7 +124,7 @@
 </p>
 
 ### 👉 Operating Systems
-
+<br>
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
