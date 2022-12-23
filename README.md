@@ -49,8 +49,16 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <a href="https://nuxt.com/" target="_blank"> 
+    <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
+  </a> 
+    &emsp; 
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img alt="VueJs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  </a> 
+   &emsp; 
+  <a href="https://spring.io/" target="_blank"> 
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
