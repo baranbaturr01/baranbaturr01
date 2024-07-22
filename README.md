@@ -10,8 +10,8 @@
 </p>
 
 ## 👨‍💻 About me
-- ☕  I’m currently working on Nodejs And Php Projects
-- 👨‍🎓 I’m currently learning: Java and Kotlin.
+- ☕  I’m currently working on Nodejs , Php Projects And Java Spring boot
+- 👨‍🎓 I’m currently learning: Java.
 - 🏫 I graduated from Çukurova University Computer Engineering.
 - 💻 I love using Software as a solution for every `Problem`
 - 🖥️ I am a competitive programmer mainly at `HackerRank`
